@@ -1,6 +1,5 @@
-Readme -- 
+Employee Layoffs Findings Readme---
 
-Employee Layoffs Findings Readme
 This readme presents key findings from a publicly available dataset on employee layoffs. The dataset was cleaned using mean-mode imputation and unwanted columns were removed to enhance clarity.
 
 Key Findings--
