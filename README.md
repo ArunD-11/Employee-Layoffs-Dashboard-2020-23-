@@ -5,9 +5,9 @@ This readme presents key findings from a publicly available dataset on employee 
 
 Key Findings--
 1) A total of 627,858 employees were laid off.
-2) The United States had the highest number of layoffs.
-3) The year 2022 had the highest number of layoffs.
-4) The retail industry had the highest number of layoffs.
+2) Country - United States had the highest number of layoffs.
+3) Year - 2022 had the highest number of layoffs.
+4) Industry - Retail Industry had the highest number of layoffs.
 5) These findings provide valuable insights into the state of employee layoffs across industries and countries. The dataset can be used by researchers, policymakers, and businesses to better understand and address the impacts of layoffs on the workforce.
 
 Data Source--
